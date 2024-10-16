@@ -26,7 +26,7 @@ export default function Home({ posts }) {
         <div className="flex flex-col-reverse items-start sm:flex-row">
           <div className="flex flex-col pr-8">
             <h1 className="mb-1 text-3xl font-bold tracking-tight text-zinc-800 dark:text-white md:text-5xl">
-              Raphaël Chelly
+              Eunjin Hwang
             </h1>
             <h2 className="mb-1 text-xl font-bold tracking-tight text-zinc-600 dark:text-white md:text-2xl">
               Portfolio of a digital marketing guy who codes a bit.
@@ -115,7 +115,7 @@ export default function Home({ posts }) {
           </a>
           <a
             className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-indigo-500 py-2 px-2.5 font-medium text-white shadow-lg shadow-indigo-500/10 transition selection:bg-white/30 hover:bg-indigo-500/80 hover:shadow-indigo-500/5 focus:ring-indigo-500/40 dark:bg-indigo-400 dark:text-zinc-900 dark:shadow-indigo-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-indigo-400/80 dark:hover:shadow-indigo-400/5 dark:focus:ring-indigo-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
-            href="https://github.com/raphaelchelly"
+            href="https://github.com/3hwangg"
             rel="noreferrer"
             target="_blank"
           >
